@@ -9,7 +9,6 @@ for     windows
 3)  .\env\Scripts\activate
 4)  py -m pip install -r requirements.txt
 
-
 for    linux
 3)  source env/bin/activate
-4)      source env/bin/activate
+4)  source env/bin/activate
